@@ -19,7 +19,7 @@ The Sense HAT features an 8x8 RGB LED matrix, a mini joystick and the following 
 Buy
 ===
 
-Coming soon
+Available from all the usual places
 
 Installation
 ============
